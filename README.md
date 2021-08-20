@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aslam
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Django 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Django projects
 - 📫 Reach me on my mail macse5107@gmail.com
 
 <!---
